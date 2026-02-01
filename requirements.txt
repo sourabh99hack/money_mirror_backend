@@ -8,3 +8,4 @@ django-filter
 celery
 redis
 gunicorn
+whitenoise
